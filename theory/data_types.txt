@@ -1,0 +1,43 @@
+Signed Integer:
+- let number:i8 = 20;
+- let number:i8 = -20;
+
+Unsigned Integer:
+- let number:u8 = 30;
+
+Ineger literals:
+- let decimal = 98_222;
+- let hexa = 0xff;
+- let octal = 0o77;
+- let binary = 0b1111_0000;
+
+Float:
+- let float32:f32 = 12.432;
+- let float1 = 5.0; // defaults to float64 (f64)
+
+Boolean:
+- let booleanType = true;
+- let booleanType:bool = false;
+
+Char:
+- let character = 'a'; // 4 bytes --> Unicode
+- let emoji:char = '🥳';
+
+Compound Types:
+- Tuples:
+    - let tuple = ('h', 23, -41, 67.98);
+    - let tuple2:(char, u64, i32, f64) = ('h', 23, -41, 67.98);
+    - let (x, y, w, z) = tuple;
+    - tuple.0, tuple.1, tuple.2, tuple.3
+
+- Arrays:
+    - let array = [1, 2, 3, 4, 5];
+    - array[0], array[1], array[2], array[3], array[4]
+    - let array2:[i128;5] = [1, 2, 3, 4, 5];
+
+- Strings:
+    - let name = "Miguel";
+    - let name: &'static str = "Miguel"; // String slice
+    - let lastName: String = "GP".to_string();
+    - let mut address:String::new();
+        address = "home".to_string();

@@ -1,0 +1,46 @@
+Use of Snake case (Python style)
+
+fn main(){
+    show_welcome();
+    select_number(8);
+    let num = get_number(9);
+    let num = get_number_expression(9);
+    // Statement
+    let num2 = {
+        10 // Expression
+    };
+    println!("Num2 es {}", num2);
+
+    say_hi("Miguel".to_string());
+    say_hi_ref("Miguel");
+
+    let num = get_number_ref(&8);
+}
+
+fn show_welcome(){
+    println!("Welcome to Rust");
+}
+
+fn select_number(num:i32){
+    println!("Num {}", num);
+}
+
+fn get_number(num: i32) -> i32{
+    return num;
+}
+
+fn get_number_expression(num: i32) -> i32{
+    num // no ;
+}
+
+fn get_number_ref(num: &i32) -> i32{
+    *num + 4
+}
+
+fn say_hi(name: String){
+    println!("Hello {}", name);
+}
+
+fn say_hi_ref(name: &str){ // Argument by reference
+    println!("Hello {}", name);
+}

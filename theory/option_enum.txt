@@ -1,0 +1,40 @@
+// Included as default
+enum Option<T> {
+    Some(T),
+    None,
+}
+
+fn main(){
+    let name: Option<String> = Some("Miguel".to_string());
+    match name{
+        None => println!("name is None),
+        Some(nombre) => println!("{}", name),
+    }
+
+    // Another way
+    let newUser = User {
+        name: "Miguel".to_string(),
+        age: Some(12),
+    };
+
+    let age = newUser.getAge();
+    match age {
+        Some(age) => println!("age {}", age),
+        _ => (), // Rest of cases
+    }
+}
+
+struct User {
+    name: String,
+    age: Option<i32>,
+}
+
+impl User { // Adding functions to structs
+    fn getAge(&self) -> Option<i32> {
+        self.age
+    }
+
+    fn getAge2(&self) -> i32 {
+        self.age.unwrap_or_default()
+    }
+}

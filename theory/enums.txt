@@ -1,0 +1,33 @@
+enum UserRole {
+    BASIC,
+    ADMIN,
+}
+
+enum Website {
+    URL(String),
+    INSTAGRAM(String),
+    LINKEDIN(String),
+    FACEBOOK(String),
+}
+
+fn main(){
+    let role = UserRole::BASIC;
+    let website = Website::INSTAGRAM(String::from("@whatever"));
+    let access = hasAccess(role);
+}
+
+fn hasAccess(user_role: UserRole) -> bool {
+    match user_role {
+        UserRole::ADMIN => true,
+        UserRole::BASIC => false,
+    }
+}
+
+fn go_to_website(website: Website) {
+    match website {
+        Website::INSTAGRAM => //do something,
+        Website::URL => //do something else,
+        Website::LINKEDIN => //do something else,
+        Website::FACEBOOK => //do something else,
+    }
+}

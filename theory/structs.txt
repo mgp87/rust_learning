@@ -1,0 +1,63 @@
+struct User{
+    name: String,
+    age: i32,
+    email: String,
+    active: bool,
+    country: String,
+}
+
+fn main(){
+    let mut user = User{
+        name: "Miguel".to_string(),
+        email: "test@test.com".to_string(),
+        age: 37,
+        active: true,
+        country: String::from("Spain"),
+    };
+
+    println!("User {}, age {}", user.name, user.age);
+
+    user.active = false;
+
+    let user1 = new_user(String::from("François"), String::from("test_fr@test.com"));
+    let user2 = new_user_other(String::from("Alf"), String::from("test_alf@test.com"));
+
+    let user3 = User{
+        name: "Jacob".to_string(),
+        email: "test_jac@test.com".to_string(),
+        ..user1 //Assigns rest of fields to user1 values
+    };
+
+    // Tuple structs
+    struct Point(i32, i32, i32);
+    let pointA = Point(12, 33, 66);
+}
+
+// Add functions to structs
+impl User{
+    fn year_of_birth(&self) -> i32 {
+        let year = 2024 - self.age;
+        return year;
+    }
+}
+
+// Init shorthand
+fn new_user(name: String, email: String) -> User{
+    User{
+        name = name,
+        email = email,
+        age = 100,
+        country = "FR",
+        active = true,
+    }
+}
+
+fn new_user_other(name: String, email: String) -> User{
+    return User{
+        name,
+        email,
+        age = 100,
+        country = "FR",
+        active = true,
+    };
+}
