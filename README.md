@@ -48,7 +48,7 @@
 
 8. Manejo de errores
     1. Panic y Result
-    2. Tests
+    2. Tests Unitarios
 
 9. Linters
     1. Lints de rustc
