@@ -16,7 +16,7 @@ fn main() {
     thread::sleep(Duration::from_millis(2000));
   });
 
-  join_handle.join().unwrap();
+  join_handle.join().unwrap(); //join devuelve un Result y necesitamos hacer el unwrap para obtener el valor
 
   println!("¿Qué quieres hacer hoy {}?", nombre);
 }
