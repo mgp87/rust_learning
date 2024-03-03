@@ -1,0 +1,29 @@
+use actix_web::{HttpResponse, get, post, delete};
+use actix_web::web::Path;
+
+use crate::constants::APPLICATION_JSON;
+
+#[get("/tweets/{id}/likes")]
+pub async fn get_likes_by_tweet(path: Path<(String, )>) -> HttpResponse {
+    let likes = 150;
+    HttpResponse::Ok()
+    .content_type(APPLICATION_JSON)
+    .json(likes)
+}
+
+#[post("/tweets/{id}/likes")]
+pub async fn new_like(path: Path<(String, )>) -> HttpResponse {
+    let like = "ok";
+    HttpResponse::Created()
+    .content_type(APPLICATION_JSON)
+    .json(like)
+}
+
+#[delete("/tweets/{id}/likes")]
+pub async fn remove_like(path: Path<(String, )>) -> HttpResponse {
+    let result = "ok";
+    HttpResponse::NoContent()
+    .content_type(APPLICATION_JSON)
+    .await
+    .unwrap()
+}
