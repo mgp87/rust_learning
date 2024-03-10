@@ -29,11 +29,20 @@ impl Like {
 }
 
 #[get("/tweets/{id}/likes")]
-pub async fn get_likes_by_tweet(path: Path<(String, )>) -> HttpResponse {
-    let likes = 150;
+pub async fn get_likes_by_tweet(path: Path<(String, )>, pool: Data<Pool<ConnectionManager<PgConnection>>>) -> HttpResponse {
+    use crate::schema::likes::dsl::*;
+    let t_id = &path.0;
+
+    let mut conn = pool.get().expect("couldn't get db connection from pool");
+    let result = likes.order(created_at).limit(10).load::<Like>(&mut conn);
+
+    let response = match result {
+        Ok(lks) => lks,
+        Err(_) => vec![],
+    }
     HttpResponse::Ok()
     .content_type(APPLICATION_JSON)
-    .json(likes)
+    .json(response)
 }
 
 #[post("/tweets/{id}/likes")]
