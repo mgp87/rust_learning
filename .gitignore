@@ -1,3 +1,5 @@
 .DS_Store
 
 coding_exercises/*/target/
+
+**/**/target/
