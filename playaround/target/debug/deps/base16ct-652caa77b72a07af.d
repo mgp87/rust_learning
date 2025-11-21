@@ -1,0 +1,10 @@
+C:\Users\MiguelGirón\Documents\GitHub\rust_learning\playaround\target\debug\deps\base16ct-652caa77b72a07af.d: C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\base16ct-0.2.0\src\lib.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\base16ct-0.2.0\src\lower.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\base16ct-0.2.0\src\mixed.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\base16ct-0.2.0\src\upper.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\base16ct-0.2.0\src\display.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\base16ct-0.2.0\src\error.rs
+
+C:\Users\MiguelGirón\Documents\GitHub\rust_learning\playaround\target\debug\deps\libbase16ct-652caa77b72a07af.rmeta: C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\base16ct-0.2.0\src\lib.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\base16ct-0.2.0\src\lower.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\base16ct-0.2.0\src\mixed.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\base16ct-0.2.0\src\upper.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\base16ct-0.2.0\src\display.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\base16ct-0.2.0\src\error.rs
+
+C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\base16ct-0.2.0\src\lib.rs:
+C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\base16ct-0.2.0\src\lower.rs:
+C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\base16ct-0.2.0\src\mixed.rs:
+C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\base16ct-0.2.0\src\upper.rs:
+C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\base16ct-0.2.0\src\display.rs:
+C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\base16ct-0.2.0\src\error.rs:

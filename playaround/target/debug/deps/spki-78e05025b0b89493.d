@@ -1,0 +1,10 @@
+C:\Users\MiguelGirón\Documents\GitHub\rust_learning\playaround\target\debug\deps\spki-78e05025b0b89493.d: C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\lib.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\algorithm.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\error.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\spki.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\traits.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\../README.md
+
+C:\Users\MiguelGirón\Documents\GitHub\rust_learning\playaround\target\debug\deps\libspki-78e05025b0b89493.rmeta: C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\lib.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\algorithm.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\error.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\spki.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\traits.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\../README.md
+
+C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\lib.rs:
+C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\algorithm.rs:
+C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\error.rs:
+C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\spki.rs:
+C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\traits.rs:
+C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\../README.md:

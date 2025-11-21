@@ -1,0 +1,9 @@
+C:\Users\MiguelGirón\Documents\GitHub\rust_learning\playaround\target\debug\deps\tokio_rustls-cbf4c89529a0cb2a.d: C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-rustls-0.24.1\src\lib.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-rustls-0.24.1\src\client.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-rustls-0.24.1\src\common\mod.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-rustls-0.24.1\src\common\handshake.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-rustls-0.24.1\src\server.rs
+
+C:\Users\MiguelGirón\Documents\GitHub\rust_learning\playaround\target\debug\deps\libtokio_rustls-cbf4c89529a0cb2a.rmeta: C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-rustls-0.24.1\src\lib.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-rustls-0.24.1\src\client.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-rustls-0.24.1\src\common\mod.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-rustls-0.24.1\src\common\handshake.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-rustls-0.24.1\src\server.rs
+
+C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-rustls-0.24.1\src\lib.rs:
+C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-rustls-0.24.1\src\client.rs:
+C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-rustls-0.24.1\src\common\mod.rs:
+C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-rustls-0.24.1\src\common\handshake.rs:
+C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tokio-rustls-0.24.1\src\server.rs:

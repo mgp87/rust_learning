@@ -1,0 +1,8 @@
+C:\Users\MiguelGirón\Documents\GitHub\rust_learning\playaround\target\debug\deps\scale_info_derive-b1c359465be5317f.d: C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\scale-info-derive-2.11.6\src\lib.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\scale-info-derive-2.11.6\src\attr.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\scale-info-derive-2.11.6\src\trait_bounds.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\scale-info-derive-2.11.6\src\utils.rs
+
+C:\Users\MiguelGirón\Documents\GitHub\rust_learning\playaround\target\debug\deps\scale_info_derive-b1c359465be5317f.dll: C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\scale-info-derive-2.11.6\src\lib.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\scale-info-derive-2.11.6\src\attr.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\scale-info-derive-2.11.6\src\trait_bounds.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\scale-info-derive-2.11.6\src\utils.rs
+
+C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\scale-info-derive-2.11.6\src\lib.rs:
+C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\scale-info-derive-2.11.6\src\attr.rs:
+C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\scale-info-derive-2.11.6\src\trait_bounds.rs:
+C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\scale-info-derive-2.11.6\src\utils.rs:

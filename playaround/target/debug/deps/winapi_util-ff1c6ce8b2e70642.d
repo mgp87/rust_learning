@@ -1,0 +1,9 @@
+C:\Users\MiguelGirón\Documents\GitHub\rust_learning\playaround\target\debug\deps\winapi_util-ff1c6ce8b2e70642.d: C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winapi-util-0.1.10\src\lib.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winapi-util-0.1.10\src\console.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winapi-util-0.1.10\src\file.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winapi-util-0.1.10\src\sysinfo.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winapi-util-0.1.10\src\win.rs
+
+C:\Users\MiguelGirón\Documents\GitHub\rust_learning\playaround\target\debug\deps\libwinapi_util-ff1c6ce8b2e70642.rmeta: C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winapi-util-0.1.10\src\lib.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winapi-util-0.1.10\src\console.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winapi-util-0.1.10\src\file.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winapi-util-0.1.10\src\sysinfo.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winapi-util-0.1.10\src\win.rs
+
+C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winapi-util-0.1.10\src\lib.rs:
+C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winapi-util-0.1.10\src\console.rs:
+C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winapi-util-0.1.10\src\file.rs:
+C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winapi-util-0.1.10\src\sysinfo.rs:
+C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winapi-util-0.1.10\src\win.rs:

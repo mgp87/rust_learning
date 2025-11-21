@@ -1,0 +1,9 @@
+C:\Users\MiguelGirón\Documents\GitHub\rust_learning\playaround\target\debug\deps\derive_more_impl-6f7c585aa7e48b45.d: C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-1.0.0\src\lib.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-1.0.0\src\utils.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-1.0.0\src\from.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-1.0.0\src\../README.md C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-1.0.0\src\../doc/from.md
+
+C:\Users\MiguelGirón\Documents\GitHub\rust_learning\playaround\target\debug\deps\derive_more_impl-6f7c585aa7e48b45.dll: C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-1.0.0\src\lib.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-1.0.0\src\utils.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-1.0.0\src\from.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-1.0.0\src\../README.md C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-1.0.0\src\../doc/from.md
+
+C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-1.0.0\src\lib.rs:
+C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-1.0.0\src\utils.rs:
+C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-1.0.0\src\from.rs:
+C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-1.0.0\src\../README.md:
+C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-1.0.0\src\../doc/from.md:

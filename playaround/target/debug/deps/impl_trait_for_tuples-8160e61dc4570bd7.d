@@ -1,0 +1,8 @@
+C:\Users\MiguelGirón\Documents\GitHub\rust_learning\playaround\target\debug\deps\impl_trait_for_tuples-8160e61dc4570bd7.d: C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\impl-trait-for-tuples-0.2.3\src\lib.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\impl-trait-for-tuples-0.2.3\src\full_automatic.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\impl-trait-for-tuples-0.2.3\src\semi_automatic.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\impl-trait-for-tuples-0.2.3\src\utils.rs
+
+C:\Users\MiguelGirón\Documents\GitHub\rust_learning\playaround\target\debug\deps\impl_trait_for_tuples-8160e61dc4570bd7.dll: C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\impl-trait-for-tuples-0.2.3\src\lib.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\impl-trait-for-tuples-0.2.3\src\full_automatic.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\impl-trait-for-tuples-0.2.3\src\semi_automatic.rs C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\impl-trait-for-tuples-0.2.3\src\utils.rs
+
+C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\impl-trait-for-tuples-0.2.3\src\lib.rs:
+C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\impl-trait-for-tuples-0.2.3\src\full_automatic.rs:
+C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\impl-trait-for-tuples-0.2.3\src\semi_automatic.rs:
+C:\Users\MiguelGirón\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\impl-trait-for-tuples-0.2.3\src\utils.rs:
