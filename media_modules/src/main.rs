@@ -1,83 +1,11 @@
-// If each "thing" have same methods --> USE ENUM
-// If each "thing" have some same, but some different methods --> USE STRUCTS
-// If each "thing" have many "fields", you might want to use STRUCTS too
-// If each "thing" is different, then definitely --> USE STRUCTS
+mod content;
 
-#[derive(Debug)]
-enum Media {
-    Book {title: String, author: String},
-    Movie {title: String, director: String},
-    Audiobook {title: String},
-    Podcast (u32), // Podcast {episode_number: u32}
-    Placeholder,
-}
-
-impl Media {
-    fn description_verbose(&self) -> String {
-        // Basic verbose type check
-        if let Media::Book {title, author} = self {
-            format!("Book: {} {}", title, author)
-        }else if let Media::Movie {title, director} = self {
-            format!("Movie: {} {}", title, director)
-        }else if let Media::Audiobook{title} = self {
-            format!("Audiobook: {}", title)
-        }else{
-            String::from("No media found")
-        }
+use content::{
+    media::Media,
+    catalog::{
+        Catalog, MightHaveAValue
     }
-
-    fn description_pattern_matching(&self) -> String {
-        match self {
-            Media::Book {title, author} => format!("Book: {} {}", title, author),
-            Media::Movie {title, director} => format!("Movie: {} {}", title, director),
-            Media::Audiobook {title} => format!("Audiobook: {}", title),
-            Media::Podcast (episode_number) => format!("Podcast: {}", episode_number),
-            Media::Placeholder => format!("Placeholder")
-        }
-    }
-}
-
-#[derive(Debug)]
-struct Catalog {
-    items: Vec<Media>
-}
-
-impl Catalog {
-    fn new() -> Self {
-        Catalog {
-            items: vec![]
-        }
-    }
-
-    fn add(&mut self, media: Media) {
-        self.items.push(media);
-    }
-
-    fn get_by_index_custom(&self, index: usize) -> MightHaveAValue {
-        if self.items.len() > index {
-            // There's a value
-            MightHaveAValue::ThereIsAValue(&self.items[index])
-        }else {
-            // No value to return
-            MightHaveAValue::NoValueAvailable
-        }
-    }
-
-    fn get_by_index(&self, index: usize) -> Option<&Media> {
-        if self.items.len() > index {
-            // There's a value
-            Some(&self.items[index])
-        }else {
-            // No value to return
-            None
-        }
-    }
-}
-
-enum MightHaveAValue<'a> { // Simulating Option enum
-    ThereIsAValue(&'a Media),
-    NoValueAvailable, 
-}
+};
 
 fn main() {
     let audiobook = Media::Audiobook {
