@@ -102,6 +102,7 @@ fn main() -> Result<(), Error> {
     let text = fs::read_to_string("logs.txt")?;
     let error_logs = extract_errors(text.as_str());
     fs::write("errors_?.txt", error_logs.join("\n"))?;
+    
     Ok(())
 
     // - Use match or "if let" when we want to meaningfully deal with an error besides logging
