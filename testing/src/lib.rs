@@ -6,6 +6,10 @@ pub fn add(left: u64, right: u64) -> u64 {
     left + right
 }
 
+fn simple_add() -> bool {
+    2 + 2 == 4
+}
+
 #[cfg(test)]
 mod tests {
     use super::*;
@@ -26,13 +30,5 @@ mod tests {
     #[test]
     fn call_simple_add() {
         assert!(simple_add());
-    }
-}
-
-fn simple_add() -> bool {
-    if 2+2 == 4 {
-        true
-    }else {
-        false
     }
 }
